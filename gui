@@ -1,5 +1,5 @@
 local xversion = "V.2.1"
-local keyCode = "LeftAlt"
+local keyCode = "RightAlt"
 
 if game:GetService("CoreGui"):FindFirstChild("xlpUI") then
     game:GetService("CoreGui"):FindFirstChild("xlpUI"):Destroy()
